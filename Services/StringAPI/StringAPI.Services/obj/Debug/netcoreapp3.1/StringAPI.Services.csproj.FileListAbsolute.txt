@@ -1,0 +1,15 @@
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Services\bin\Debug\netcoreapp3.1\StringAPI.Services.deps.json
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Services\bin\Debug\netcoreapp3.1\StringAPI.Services.dll
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Services\bin\Debug\netcoreapp3.1\StringAPI.Services.pdb
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Services\bin\Debug\netcoreapp3.1\StringAPI.Infrastructure.dll
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Services\bin\Debug\netcoreapp3.1\StringAPI.Models.dll
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Services\bin\Debug\netcoreapp3.1\StringAPI.Infrastructure.pdb
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Services\bin\Debug\netcoreapp3.1\StringAPI.Models.pdb
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Services\obj\Debug\netcoreapp3.1\StringAPI.Services.csproj.AssemblyReference.cache
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Services\obj\Debug\netcoreapp3.1\StringAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Services\obj\Debug\netcoreapp3.1\StringAPI.Services.AssemblyInfoInputs.cache
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Services\obj\Debug\netcoreapp3.1\StringAPI.Services.AssemblyInfo.cs
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Services\obj\Debug\netcoreapp3.1\StringAPI.Services.csproj.CoreCompileInputs.cache
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Services\obj\Debug\netcoreapp3.1\StringAPI.Services.csproj.CopyComplete
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Services\obj\Debug\netcoreapp3.1\StringAPI.Services.dll
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Services\obj\Debug\netcoreapp3.1\StringAPI.Services.pdb

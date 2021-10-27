@@ -1,0 +1,141 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MathAPI.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MathAPI.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MathAPI.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MathAPI.Infrastructure.dll": {}
+        }
+      },
+      "MathAPI.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MathAPI.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MathAPI.Models.dll": {}
+        }
+      },
+      "MathAPI.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MathAPI.Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MathAPI.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MathAPI.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathAPI.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../MathAPI.Infrastructure/MathAPI.Infrastructure.csproj",
+      "msbuildProject": "../MathAPI.Infrastructure/MathAPI.Infrastructure.csproj"
+    },
+    "MathAPI.Models/1.0.0": {
+      "type": "project",
+      "path": "../MathAPI.Models/MathAPI.Models.csproj",
+      "msbuildProject": "../MathAPI.Models/MathAPI.Models.csproj"
+    },
+    "MathAPI.Services/1.0.0": {
+      "type": "project",
+      "path": "../MathAPI.Services/MathAPI.Services.csproj",
+      "msbuildProject": "../MathAPI.Services/MathAPI.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MathAPI.Infrastructure >= 1.0.0",
+      "MathAPI.Models >= 1.0.0",
+      "MathAPI.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gunerf\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\src\\Extensions_Microservice\\Services\\MathAPI\\Math.API\\Math.API.csproj",
+      "projectName": "Math.API",
+      "projectPath": "D:\\src\\Extensions_Microservice\\Services\\MathAPI\\Math.API\\Math.API.csproj",
+      "packagesPath": "C:\\Users\\gunerf\\.nuget\\packages\\",
+      "outputPath": "D:\\src\\Extensions_Microservice\\Services\\MathAPI\\Math.API\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\gunerf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\src\\Extensions_Microservice\\Services\\MathAPI\\MathAPI.Infrastructure\\MathAPI.Infrastructure.csproj": {
+              "projectPath": "D:\\src\\Extensions_Microservice\\Services\\MathAPI\\MathAPI.Infrastructure\\MathAPI.Infrastructure.csproj"
+            },
+            "D:\\src\\Extensions_Microservice\\Services\\MathAPI\\MathAPI.Models\\MathAPI.Models.csproj": {
+              "projectPath": "D:\\src\\Extensions_Microservice\\Services\\MathAPI\\MathAPI.Models\\MathAPI.Models.csproj"
+            },
+            "D:\\src\\Extensions_Microservice\\Services\\MathAPI\\MathAPI.Services\\MathAPI.Services.csproj": {
+              "projectPath": "D:\\src\\Extensions_Microservice\\Services\\MathAPI\\MathAPI.Services\\MathAPI.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

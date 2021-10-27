@@ -1,0 +1,13 @@
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Infrastructure\bin\Debug\netcoreapp3.1\MathAPI.Infrastructure.deps.json
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Infrastructure\bin\Debug\netcoreapp3.1\MathAPI.Infrastructure.dll
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Infrastructure\bin\Debug\netcoreapp3.1\MathAPI.Infrastructure.pdb
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Infrastructure\bin\Debug\netcoreapp3.1\MathAPI.Models.dll
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Infrastructure\bin\Debug\netcoreapp3.1\MathAPI.Models.pdb
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Infrastructure\obj\Debug\netcoreapp3.1\MathAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Infrastructure\obj\Debug\netcoreapp3.1\MathAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Infrastructure\obj\Debug\netcoreapp3.1\MathAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Infrastructure\obj\Debug\netcoreapp3.1\MathAPI.Infrastructure.AssemblyInfo.cs
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Infrastructure\obj\Debug\netcoreapp3.1\MathAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Infrastructure\obj\Debug\netcoreapp3.1\MathAPI.Infrastructure.csproj.CopyComplete
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Infrastructure\obj\Debug\netcoreapp3.1\MathAPI.Infrastructure.dll
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Infrastructure\obj\Debug\netcoreapp3.1\MathAPI.Infrastructure.pdb

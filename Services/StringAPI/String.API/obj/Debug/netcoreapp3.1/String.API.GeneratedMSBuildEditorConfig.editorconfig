@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = String.API
+build_property.ProjectDir = D:\src\Extensions_Microservice\Services\StringAPI\String.API\

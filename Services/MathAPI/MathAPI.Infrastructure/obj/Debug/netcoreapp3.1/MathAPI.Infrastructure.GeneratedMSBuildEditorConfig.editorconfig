@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MathAPI.Infrastructure
+build_property.ProjectDir = D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Infrastructure\

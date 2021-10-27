@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MathAPI.Services/1.0.0": {
+        "dependencies": {
+          "MathAPI.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "MathAPI.Services.dll": {}
+        }
+      },
+      "MathAPI.Infrastructure/1.0.0": {
+        "dependencies": {
+          "MathAPI.Models": "1.0.0"
+        },
+        "runtime": {
+          "MathAPI.Infrastructure.dll": {}
+        }
+      },
+      "MathAPI.Models/1.0.0": {
+        "runtime": {
+          "MathAPI.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathAPI.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathAPI.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathAPI.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

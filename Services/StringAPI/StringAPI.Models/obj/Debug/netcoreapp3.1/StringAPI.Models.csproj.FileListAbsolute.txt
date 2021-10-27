@@ -1,0 +1,9 @@
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Models\bin\Debug\netcoreapp3.1\StringAPI.Models.deps.json
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Models\bin\Debug\netcoreapp3.1\StringAPI.Models.dll
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Models\bin\Debug\netcoreapp3.1\StringAPI.Models.pdb
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Models\obj\Debug\netcoreapp3.1\StringAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Models\obj\Debug\netcoreapp3.1\StringAPI.Models.AssemblyInfoInputs.cache
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Models\obj\Debug\netcoreapp3.1\StringAPI.Models.AssemblyInfo.cs
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Models\obj\Debug\netcoreapp3.1\StringAPI.Models.csproj.CoreCompileInputs.cache
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Models\obj\Debug\netcoreapp3.1\StringAPI.Models.dll
+D:\src\Extensions_Microservice\Services\StringAPI\StringAPI.Models\obj\Debug\netcoreapp3.1\StringAPI.Models.pdb

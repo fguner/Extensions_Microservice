@@ -1,0 +1,10 @@
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Models\bin\Debug\netcoreapp3.1\MathAPI.Models.deps.json
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Models\bin\Debug\netcoreapp3.1\MathAPI.Models.dll
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Models\bin\Debug\netcoreapp3.1\MathAPI.Models.pdb
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Models\obj\Debug\netcoreapp3.1\MathAPI.Models.csproj.AssemblyReference.cache
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Models\obj\Debug\netcoreapp3.1\MathAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Models\obj\Debug\netcoreapp3.1\MathAPI.Models.AssemblyInfoInputs.cache
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Models\obj\Debug\netcoreapp3.1\MathAPI.Models.AssemblyInfo.cs
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Models\obj\Debug\netcoreapp3.1\MathAPI.Models.csproj.CoreCompileInputs.cache
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Models\obj\Debug\netcoreapp3.1\MathAPI.Models.dll
+D:\src\Extensions_Microservice\Services\MathAPI\MathAPI.Models\obj\Debug\netcoreapp3.1\MathAPI.Models.pdb

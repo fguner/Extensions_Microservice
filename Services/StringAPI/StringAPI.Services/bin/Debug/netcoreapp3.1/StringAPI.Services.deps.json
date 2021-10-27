@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StringAPI.Services/1.0.0": {
+        "dependencies": {
+          "StringAPI.Infrastructure": "1.0.0",
+          "StringAPI.Models": "1.0.0"
+        },
+        "runtime": {
+          "StringAPI.Services.dll": {}
+        }
+      },
+      "StringAPI.Infrastructure/1.0.0": {
+        "runtime": {
+          "StringAPI.Infrastructure.dll": {}
+        }
+      },
+      "StringAPI.Models/1.0.0": {
+        "runtime": {
+          "StringAPI.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringAPI.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StringAPI.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StringAPI.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
